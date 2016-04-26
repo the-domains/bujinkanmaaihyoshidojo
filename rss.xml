@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BujinkanMaaiHyoshiDojo]]></title>
+        <description><![CDATA[BujinkanMaaiHyoshiDojo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 05:27:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb093d8-e5ba-455a-be8f-1427610a380a.jpg">]]></description>
+            <link>undefined3096928f-d212-4fe2-9ba4-b6bd267678c1/index.html</link>
+            <guid isPermaLink="false">3096928f-d212-4fe2-9ba4-b6bd267678c1</guid>
+            <pubDate>Tue, 26 Apr 2016 05:27:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
