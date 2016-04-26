@@ -1,0 +1,28 @@
+name: BujinkanMaaiHyoshiDojo
+favicon: null
+layout_spectrum: 0.37920228973962367
+typography_spectrum: 0.11791232135146856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9254100802354515
+  lightness: 0.9904637914150953
+  saturation: 0.3071069240104407
+  rhythmicContrast: 0.25644594291225076
+purpose: []
